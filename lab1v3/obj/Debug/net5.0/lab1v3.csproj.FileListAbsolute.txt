@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\bin\Debug\net5.0\lab1v3.exe
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\bin\Debug\net5.0\lab1v3.deps.json
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\bin\Debug\net5.0\lab1v3.runtimeconfig.json
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\bin\Debug\net5.0\lab1v3.runtimeconfig.dev.json
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\bin\Debug\net5.0\lab1v3.dll
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\bin\Debug\net5.0\ref\lab1v3.dll
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\bin\Debug\net5.0\lab1v3.pdb
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\obj\Debug\net5.0\lab1v3.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\obj\Debug\net5.0\lab1v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\obj\Debug\net5.0\lab1v3.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\obj\Debug\net5.0\lab1v3.AssemblyInfo.cs
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\obj\Debug\net5.0\lab1v3.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\obj\Debug\net5.0\lab1v3.dll
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\obj\Debug\net5.0\ref\lab1v3.dll
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\obj\Debug\net5.0\lab1v3.pdb
+C:\Users\acer\Desktop\учёба\КПЯП\лабораторная 1\lab1v3\obj\Debug\net5.0\lab1v3.genruntimeconfig.cache
